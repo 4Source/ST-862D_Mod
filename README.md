@@ -1,8 +1,6 @@
 # ST-862D_Mod
-Documentation of reverse Engineering the Atten ST-862D Reflow Soldering Station. 
+Documenting the reverse engineering of the Atten ST-862D reflow soldering station.
 
-## Tabele of Contents
+## Table of contents
 
-## What you Gonna need
-- Screwdriver (PH2)
-- Wrench (7mm)
+## Disassemble
