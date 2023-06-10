@@ -6,7 +6,7 @@
   - [Open case](https://github.com/4Source/ST-862D_Mod/blob/master/doc/ST-862D_Disassemble.md#1-open-case)
   - [Remove the front panel](https://github.com/4Source/ST-862D_Mod/blob/master/doc/ST-862D_Disassemble.md#2-remove-the-front-panel)
   - [Remove Handle](https://github.com/4Source/ST-862D_Mod/blob/master/doc/ST-862D_Disassemble.md#3-remove-handle)
-  - [Remove mainboard](https://github.com/4Source/ST-862D_Mod/blob/master/doc/ST-862D_Disassemble.md#2-remove-the-front-panel)
+  - [Remove mainboard](https://github.com/4Source/ST-862D_Mod/blob/master/doc/ST-862D_Disassemble.md#4-remove-mainboard)
 
 
 ## Important
