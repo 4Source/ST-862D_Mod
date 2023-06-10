@@ -6,6 +6,8 @@
 
   (title_block
     (title "ST-862D-P2")
+    (date "2023-06-10")
+    (company "4Source")
   )
 
   (lib_symbols
