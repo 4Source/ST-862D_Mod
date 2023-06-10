@@ -84,7 +84,9 @@ If you haven't already done so, remove the glue from the remaining connectors on
 #### 3.2 Remove screws
 Remove the marked screws (2xPH2).
 
-![Front pannel with marked Screws]()
+![Front pannel with marked Screws](/doc/img/ST-862D_OP_FR-DIS_HD-M.jpg)
+
+#### 3.3 
 
 ---
 
